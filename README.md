@@ -1,0 +1,1 @@
+This repository demonstrates a common Python bug involving unclosed file resources. The `bug.py` file contains the erroneous code.  The `bugSolution.py` file shows the corrected code with proper resource management. Unclosed files can lead to various issues, including resource leaks and potential data corruption. Proper file handling is crucial in Python programming. 
